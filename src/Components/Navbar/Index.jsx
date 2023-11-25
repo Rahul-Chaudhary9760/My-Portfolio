@@ -2,7 +2,7 @@ import React from "react"
 import { Link  } from 'react-router-dom';
 import { Nav, StyledNavLink, NavbarContainer, Span, NavLogo, NavItems, GitHubButton, ButtonContainer, MobileIcon, MobileMenu, MobileLink} from "./NavStyledComponent"
 import { DiCssdeck } from 'react-icons/di';
-import { Bio } from '../../data/constants';
+import { Bio } from "../../Data/Constants";
 import { FaBars } from 'react-icons/fa';
 import { useTheme } from "styled-components"
 
